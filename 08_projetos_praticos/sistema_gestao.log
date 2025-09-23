@@ -1,0 +1,13 @@
+2025-09-23 19:33:40,412 - __main__ - INFO - Sistema de logging configurado - Nível: INFO
+2025-09-23 19:33:40,418 - __main__ - INFO - Sistema de logging configurado - Nível: INFO
+2025-09-23 19:33:40,419 - __main__ - INFO - Inicializando dados de exemplo...
+2025-09-23 19:33:40,419 - __main__ - INFO - Cliente criado: João Silva
+2025-09-23 19:33:40,420 - __main__ - INFO - Cliente criado: Empresa ABC Ltda
+2025-09-23 19:33:40,420 - __main__ - INFO - Cliente criado: Maria Santos
+2025-09-23 19:33:40,421 - __main__ - INFO - Produto criado: Smartphone XYZ
+2025-09-23 19:33:40,421 - __main__ - INFO - Produto criado: Camiseta Polo
+2025-09-23 19:33:40,422 - __main__ - INFO - Produto criado: Livro Python
+2025-09-23 19:33:40,422 - __main__ - INFO - Dados de exemplo inicializados com sucesso!
+2025-09-23 19:33:40,432 - __main__ - INFO - Sistema de logging configurado - Nível: INFO
+2025-09-23 19:33:40,435 - auditoria - INFO - Operação: 1 | Entidade: Cliente | ID: test-id | Usuário: usuario_teste | Detalhes: {'acao': 'Demonstração de auditoria'}
+2025-09-23 19:33:40,437 - __main__ - INFO - Sistema de logging configurado - Nível: INFO

@@ -1,0 +1,35 @@
+# Requisitos do Curso de Lógica de Programação e Estruturas de Dados
+# Python 3.8+ requerido
+
+# Bibliotecas padrão utilizadas (já incluídas no Python)
+# - os
+# - sys
+# - time
+# - random
+# - json
+# - datetime
+# - collections
+# - heapq
+# - threading
+# - multiprocessing
+# - functools
+# - itertools
+# - math
+# - statistics
+# - re
+# - copy
+# - pickle
+# - sqlite3
+
+# Bibliotecas opcionais para funcionalidades avançadas
+matplotlib>=3.5.0    # Para gráficos de performance (opcional)
+numpy>=1.21.0        # Para operações matemáticas avançadas (opcional)
+psutil>=5.8.0        # Para monitoramento de sistema (opcional)
+
+# Bibliotecas para desenvolvimento e testes
+pytest>=6.0.0        # Para testes automatizados (opcional)
+black>=21.0.0        # Para formatação de código (opcional)
+flake8>=4.0.0        # Para análise de código (opcional)
+
+# Nota: Este curso foi desenvolvido para funcionar apenas com Python padrão
+# As bibliotecas opcionais são para funcionalidades extras e não são obrigatórias
